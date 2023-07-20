@@ -6,7 +6,7 @@ export const Header = () => {
       <nav className="flex justify-between  w-screen px-5 xl:px-12 py-2  items-center">
         <div className=" gap-x-3  flex">
           <a
-            href="https://www.placein.com"
+            href="www.linkedin.com/in/hugosuarezdevp"
             className="h-9 w-9 sm:hidden"
             target="_blank"
             rel="noreferrer"
@@ -14,7 +14,7 @@ export const Header = () => {
             <img src="/icons/web.png" alt="PlaceIn" title="PlaceIn" />
           </a>
 
-          <a href="https://www.placein.com" target="_blank" rel="noreferrer">
+          <a href="www.linkedin.com/in/hugosuarezdevp" target="_blank" rel="noreferrer">
             <h1 className="hidden sm:block text-3xl font-placeFilm font-regular text-white">
               PlaceFilm
             </h1>
