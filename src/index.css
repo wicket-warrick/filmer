@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;500;700&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,700;0,8..144,800;1,8..144,400;1,8..144,500;1,8..144,700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #2ed50f;
+  --color-secondary: #00be64;
+  --color-third: #00a288;
+   --font-family: "Poppins";
+}
