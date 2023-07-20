@@ -16,7 +16,7 @@ export const Header = () => {
 
           <a href="https:\\www.linkedin.com/in/hugosuarezdevp" target="_blank" rel="noreferrer">
             <h1 className="hidden sm:block text-3xl font-placeFilm font-regular text-white">
-              PlaceFilm
+              Filmer
             </h1>
           </a>
         </div>
